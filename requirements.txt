@@ -1,0 +1,11 @@
+fastapi
+pandas
+geopy
+ip2geotools
+openai
+python-dotenv
+google-genai
+uvicorn[standard]
+transformers
+torch
+geocoder
